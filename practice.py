@@ -1,4 +1,4 @@
 def hello_print(name, country):
     print(f"Hello {name} from {country}!")
 
-hello_print("Noyori_yume", "Japan")
+hello_print("Noyori_Yume", "Japan")
